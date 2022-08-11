@@ -2,8 +2,8 @@
 This repository is for Project 1.
 All 5 Projects throughout this semester will each have their own reposirory tied back to one semester plan Kanban guide (Project).
 eg: 
-Project 1: CMPG 323 - Overview
-Project 2: CMPG 323 - API Development
+Project 1: CMPG 323 - Overview;
+Project 2: CMPG 323 - API Development;
 Project 3: CMPG 323 - Standards & Patterns
 Project 4: CMPG 323 - Testing & RPA
 Project 5: CMPG 323 - Reporting & Monitoring
