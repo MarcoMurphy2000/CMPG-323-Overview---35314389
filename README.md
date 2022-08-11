@@ -1,4 +1,5 @@
 # CMPG-323-Overview---35314389
+## Repositories to be created and used for each project
 This repository is for Project 1. <br />
 All 5 Projects throughout this semester will each have their own reposirory tied back to one semester plan Kanban guide (Project).<br />
 eg: <br />
@@ -29,9 +30,10 @@ I will isolate my work into 5 different branches to exercise flow control. <br /
 
 When working on a personal project it is not always necessary to have this many branshes. Once I start working on my other projects, I may decide to change this branching strategy; however, I intend to keep this branching strategy with the idea of preparing myself for the real world where I will be working in a team that requires many branches before being able to push work directly to the main (production) branch. 
 
-## The use of .gitnore
+## The use of a .gitnore file
 The reason for a gitignore file is because there are certain items in your project that you dont necessarily want published to your repository.These items could be credentials or files giving access to your databases and so forth. 
 Add the path of the file that you want to ignore into the .gitnore text file.
 Usually when using visual studio the .vs file should be added to the .gitnore file.
 
-## 
+## The storage of credentials and sensitive information
+Source code repositories are more often than not meant to be shared with either your teammates, your company or possibly the entire world. Therefore it is important not to share sensitive info such as database passwords directly in the source code.   This applies to both secrets that are hardcoded into your application (such as putting the database password directly in the source code, which should be avoided at any cost), as well as keeping configuration files with secrets alongside your source code (such as .env or config.json files).
