@@ -2,11 +2,11 @@
 This repository is for Project 1.
 All 5 Projects throughout this semester will each have their own reposirory tied back to one semester plan Kanban guide (Project).
 eg: 
-Project 1: CMPG 323 - Overview;
-Project 2: CMPG 323 - API Development;
-Project 3: CMPG 323 - Standards & Patterns
-Project 4: CMPG 323 - Testing & RPA
-Project 5: CMPG 323 - Reporting & Monitoring
+Project 1: CMPG 323 - Overview <br />
+Project 2: CMPG 323 - API Development <br />
+Project 3: CMPG 323 - Standards & Patterns <br />
+Project 4: CMPG 323 - Testing & RPA <br />
+Project 5: CMPG 323 - Reporting & Monitoring <br />
 
 ## Branching Strategies
 Branching gives you an extra layer to do version control on, and allows you to maintain the integrity of your master branch.
