@@ -8,7 +8,9 @@ Project 3: CMPG 323 - Standards & Patterns <br />
 Project 4: CMPG 323 - Testing & RPA <br />
 Project 5: CMPG 323 - Reporting & Monitoring <br />
 
-## Project & Repository 
+## Project & Repository Structure
+See diagram below: <br />
+![image](https://user-images.githubusercontent.com/53267265/184188808-f01dd299-0169-4e7b-92ff-2ff9d6915332.png)
 
 ## Branching Strategy
 Branching gives you an extra layer to do version control on, and allows you to maintain the integrity of your master branch. <br />
