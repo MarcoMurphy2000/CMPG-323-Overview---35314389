@@ -31,9 +31,11 @@ I will isolate my work into 5 different branches to exercise flow control. <br /
 When working on a personal project it is not always necessary to have this many branshes. Once I start working on my other projects, I may decide to change this branching strategy; however, I intend to keep this branching strategy with the idea of preparing myself for the real world where I will be working in a team that requires employees to go through a procedure such as first working on a feature branch under the develop branch only having their work added to the main branch once it is production worthy.
 
 ## The use of a .gitnore file
-The reason for a gitignore file is because there are certain items in your project that you don't necessarily want published to your repository.These items could be credentials or files giving access to your databases and so forth. 
+The reason for a gitignore file is because there are certain items in your project that you don't necessarily want published to your repository.These items could be credentials or files giving access to your databases and so forth. <br />
 You can exclude this sensitive data from your public repository by adding the path of the file that you want to ignore into the .gitnore text file.
 Usually when using visual studio the .vs file should be added to the .gitnore file.
 
 ## The storage of credentials and sensitive information
-Source code repositories are more often than not meant to be shared with either your teammates, your company or possibly the entire world. Therefore it is important not to place sensitive data such as database passwords and secret API keys directly in the source code. To avoid compromising these secrets, rather store them in a standalone file and gitnore the file.
+Source code repositories are more often than not meant to be shared with either your teammates, your company or possibly the entire world. Therefore it is important not to place sensitive data such as database passwords and secret API keys directly in the source code. <br />
+
+To avoid compromising sensitive data such as credentials, I wil store this data in a standalone file and gitnore the file.
