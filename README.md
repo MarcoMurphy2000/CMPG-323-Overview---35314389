@@ -36,4 +36,4 @@ Add the path of the file that you want to ignore into the .gitnore text file.
 Usually when using visual studio the .vs file should be added to the .gitnore file.
 
 ## The storage of credentials and sensitive information
-Source code repositories are more often than not meant to be shared with either your teammates, your company or possibly the entire world. Therefore it is important not to share sensitive info such as database passwords directly in the source code.   This applies to both secrets that are hardcoded into your application (such as putting the database password directly in the source code, which should be avoided at any cost), as well as keeping configuration files with secrets alongside your source code (such as .env or config.json files).
+Source code repositories are more often than not meant to be shared with either your teammates, your company or possibly the entire world. Therefore it is important not to place sensitive data such as database passwords and secret API keys directly in the source code. To avoid compromising these secrets, rather store them in a standalone file and gitnore the file.
