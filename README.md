@@ -42,11 +42,11 @@ To avoid compromising sensitive data such as credentials, I wil store this data 
 
 
 ## Project 2
-Repository created
-Database Configured
-API project created
-API connected to data source
-Device, Zone, and Category management functionality built
+Repository created<br />
+Database Configured<br />
+API project created<br />
+API connected to data source<br />
+Device, Zone, and Category management functionality built<br />
 Security done
 
 
