@@ -41,7 +41,7 @@ Source code repositories are more often than not meant to be shared with either 
 To avoid compromising sensitive data such as credentials, I wil store this data in a standalone file and gitnore the file.
 
 
-##Project 2
+## Project 2
 Repository created
 Database Configured
 API project created
