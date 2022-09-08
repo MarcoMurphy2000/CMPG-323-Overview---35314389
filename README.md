@@ -39,3 +39,14 @@ Usually when using visual studio the .vs file should be added to the .gitnore fi
 Source code repositories are more often than not meant to be shared with either your teammates, your company or possibly the entire world. Therefore it is important not to place sensitive data such as database passwords and secret API keys directly in the source code. <br />
 
 To avoid compromising sensitive data such as credentials, I wil store this data in a standalone file and gitnore the file.
+
+
+##Project 2
+Repository created
+Database Configured
+API project created
+API connected to data source
+Device, Zone, and Category management functionality built
+Security done
+
+
