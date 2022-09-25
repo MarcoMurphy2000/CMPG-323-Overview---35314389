@@ -48,7 +48,9 @@ API project created<br />
 API connected to data source<br />
 Device, Zone, and Category management functionality built<br />
 Security done
-
+API connected to data source<br />
+Device, Zone, and Category management functionality built<br />
+Security done
 
 
 ## Project 3
@@ -74,6 +76,4 @@ Project Documentation implementation done. (ReadME file added in repository expl
 
 
 
-API connected to data source<br />
-Device, Zone, and Category management functionality built<br />
-Security done
+
