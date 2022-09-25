@@ -73,6 +73,9 @@ Security Implemented (No credentials such as appsettings.json file stored on Git
 Web API Cloud Hosting implemented. Project has been published to Azure resource group. <br />
 Project Documentation implementation done. (ReadME file added in repository explaining how the user would use the App. ANd a complete reference list created. <br />
 
+* Link to Project 3 repository
+https://github.com/MarcoMurphy2000/CMPG-323-Project-3-35314389.git
+
 
 
 
