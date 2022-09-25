@@ -50,3 +50,30 @@ Device, Zone, and Category management functionality built<br />
 Security done
 
 
+
+## Project 3
+* GitHub Administration
+GitHub Repository created and configured. <br />
+ReadME file created. <br />
+Project Progress commited throughout the project. <br />
+
+* Project Setup
+Existing Repository forked and cloned to local disk. <br />
+Web App connected to the data source. <br />
+
+* Design Pattern Implementation
+Repository classes created. <br />
+Data access operations transfered from controllers to repository classes. <br />
+Repository classes implemented. <br />
+
+* roject Close out
+Security Implemented (No credentials such as appsettings.json file stored on GitHub repository). <br />
+Web API Cloud Hosting implemented. Project has been published to Azure resource group. <br />
+Project Documentation implementation done. (ReadME file added in repository explaining how the user would use the App. ANd a complete reference list created. <br />
+
+
+
+
+API connected to data source<br />
+Device, Zone, and Category management functionality built<br />
+Security done
