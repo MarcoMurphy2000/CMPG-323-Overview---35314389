@@ -61,6 +61,7 @@ Project Progress commited throughout the project. <br />
 
 * Project Setup: <br />
 Existing Repository forked and cloned to local machine. <br />
+Development branch created. <br />
 Web App connected to the data source. <br />
 
 * Design Pattern Implementation: <br />
