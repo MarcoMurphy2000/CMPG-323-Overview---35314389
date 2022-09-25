@@ -54,26 +54,26 @@ Security done
 
 
 ## Project 3
-* GitHub Administration <br />
+* GitHub Administration: <br />
 GitHub Repository created and configured. <br />
 ReadME file created. <br />
 Project Progress commited throughout the project. <br />
 
-* Project Setup <br />
+* Project Setup: <br />
 Existing Repository forked and cloned to local disk. <br />
 Web App connected to the data source. <br />
 
-* Design Pattern Implementation <br />
+* Design Pattern Implementation: <br />
 Repository classes created. <br />
 Data access operations transfered from controllers to repository classes. <br />
 Repository classes implemented. <br />
 
-* roject Close out <br />
+* roject Close out: <br />
 Security Implemented (No credentials such as appsettings.json file stored on GitHub repository). <br />
 Web API Cloud Hosting implemented. Project has been published to Azure resource group. <br />
 Project Documentation implementation done. (ReadME file added in repository explaining how the user would use the App. ANd a complete reference list created. <br />
 
-* Link to Project 3 repository <br />
+* Link to Project 3 repository: <br />
 https://github.com/MarcoMurphy2000/CMPG-323-Project-3-35314389.git
 
 
