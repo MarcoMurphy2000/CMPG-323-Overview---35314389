@@ -60,7 +60,7 @@ ReadME file created. <br />
 Project Progress commited throughout the project. <br />
 
 * Project Setup: <br />
-Existing Repository forked and cloned to local disk. <br />
+Existing Repository forked and cloned to local machine. <br />
 Web App connected to the data source. <br />
 
 * Design Pattern Implementation: <br />
