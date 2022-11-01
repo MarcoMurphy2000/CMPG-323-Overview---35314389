@@ -69,7 +69,7 @@ Repository classes created. <br />
 Data access operations transfered from controllers to repository classes. <br />
 Repository classes implemented. <br />
 
-* roject Close out: <br />
+* Project Close out: <br />
 Security Implemented (No credentials such as appsettings.json file stored on GitHub repository). <br />
 Web API Cloud Hosting implemented. Project has been published to Azure resource group. <br />
 Project Documentation implementation done. (ReadME file added in repository explaining how the user would use the App. ANd a complete reference list created. <br />
@@ -99,12 +99,54 @@ Mechanism that successfully tests the update & delete functionality of all Devic
 Mechanism that successfully tests the update & delete functionality of all Categories test cases created. <br />
 Process hosted on the UiPath Orchestrator. <br />
 
-* roject Close out: <br />
+* Project Close out: <br />
 Security Implemented (No credentials such as appsettings.json file stored on GitHub repository). <br />
 Project Documentation implementation done. (ReadME file added in repository explaining how the user would use the UiPath process. ANd a complete reference list created. <br />
 
 * Link to Project 4 repository: <br />
-[https://github.com/MarcoMurphy2000/CMPG-323-Project-3-35314389.git](https://github.com/MarcoMurphy2000/CMPG-323-Project-4---35314389.git)
+https://github.com/MarcoMurphy2000/CMPG-323-Project-4---35314389.git  <br /> <br />
 
 
+
+## Project 5 (Reporting & Monitoring)
+* GitHub Administration: <br />
+GitHub Repository for project 5 created and configured. <br />
+ReadME file created. <br />
+Development branch created. <br />
+Solution has been committed and pushed to source control throughout the project. <br />
+GitHub project has been updated iteratively throughout the project to demonstrate how progress was made. <br />
+
+* Project Setup: <br />
+Repostory for Project 4 cloned to local machine. <br />
+Power BI Desktop installed. <br />
+New Power BI report named 'Connected Office - Device Monitoring' created. <br />
+Page named 'High-Level Metrics' created. <br />
+Page named 'Device Monitoring' created. <br />
+Page named 'Device Registration' created. <br />
+
+* Data Connection: <br />
+Live connection to the data sources that will be used as part of the visualisations created. <br />
+Data sources secure, and appropriately mapped where necessary. <br />
+Imported data fields are associated to the correct data types. <br />
+At least one calculated column to enhance the quality of your dataset created. <br />
+At least one key measure that will enhance the quality of your visualisations created. <br />
+
+* Report Development: <br />
+Summary view that shows business stakeholders a high-level view of the ‘important’ data added. <br />
+Visual created that allows the user to monitor devices per category. <br />
+Visual created that allows the user to monitor online versus offline devices (status should depict whether a device is online or offline). <br />
+Visual created that allows the user to see how many devices have been registered over a timespan. <br />
+Visual created that allows the user to see how many categories of devices have been created. <br/>
+Visual created that allows the user to see how many zones contain registered devices on a timeline. <br />
+Filter added for users to filter the report based on device category. <br />
+Filter added for users to filter the report based on device platform. <br />
+Filter added for users to filter the report based on device zone. <br />
+Filter added for users to filter the report based on device registration date. <br />
+
+
+* Project Close out: <br />
+ReadMe.md file in the GitHub repository explains how the user would use the report. <br />
+Reference list document created that contains all sites visited and used to complete the project. <br />
+
+* Link to Project 5 repository: <br />
 
