@@ -86,7 +86,7 @@ Project Progress commited throughout the project. <br />
 
 * Project Setup: <br />
 Connected Office Web App (link provided in project overview pdf) used for testing.  
-UiPath Studion Installed. <br />
+UiPath Studio Installed. <br />
 New UiPath process named 'Connected Office Web Application - User Acceptance Testing' created. <br />
 
 * Design Pattern Implementation: <br />
