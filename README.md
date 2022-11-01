@@ -78,6 +78,33 @@ Project Documentation implementation done. (ReadME file added in repository expl
 https://github.com/MarcoMurphy2000/CMPG-323-Project-3-35314389.git
 
 
+## Project 4
+* GitHub Administration: <br />
+GitHub Repository for project 4 created and configured. <br />
+ReadME file created. <br />
+Project Progress commited throughout the project. <br />
+
+* Project Setup: <br />
+Connected Office Web App (link provided in project overview pdf) used for testing.  
+UiPath Studion Installed. <br />
+New UiPath process named 'Connected Office Web Application - User Acceptance Testing' created. <br />
+
+* Design Pattern Implementation: <br />
+Data read into data tables from excel. <br />
+Mechanism that successfully tests the create & read functionality of all Zones test cases created. <br />
+Mechanism that successfully tests the create & read functionality of all Devices test cases created. <br />
+Mechanism that successfully tests the create & read functionality of all Categories test cases created. <br />
+Mechanism that successfully tests the update & delete functionality of all Zones test cases created. <br />
+Mechanism that successfully tests the update & delete functionality of all Devices test cases created. <br />
+Mechanism that successfully tests the update & delete functionality of all Categories test cases created. <br />
+Process hosted on the UiPath Orchestrator. <br />
+
+* roject Close out: <br />
+Security Implemented (No credentials such as appsettings.json file stored on GitHub repository). <br />
+Project Documentation implementation done. (ReadME file added in repository explaining how the user would use the UiPath process. ANd a complete reference list created. <br />
+
+* Link to Project 4 repository: <br />
+[https://github.com/MarcoMurphy2000/CMPG-323-Project-3-35314389.git](https://github.com/MarcoMurphy2000/CMPG-323-Project-4---35314389.git)
 
 
 
